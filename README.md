@@ -1,2 +1,2 @@
 # MathCode
-A collection of code made by me for use in my math class
+Code to solve some probelms in my mathematics class.
